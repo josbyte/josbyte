@@ -17,7 +17,7 @@ Desarrollo herramientas, mods y mejoras para comunidades que siguen vivas muchos
 - [homeworld-texture-baker](https://github.com/josbyte/homeworld-texture-baker) - herramienta ligera para combinar texturas diffuse, team y glow en un unico flujo mas rapido.
 - [Blender-Ageira_Convex_Generator](https://github.com/josbyte/Blender-Ageira_Convex_Generator) - add-on para Blender con convex decomposition orientado a workflows de juegos y colisiones.
 - [FL_VSCODE_ENHACEMENTS](https://github.com/josbyte/FL_VSCODE_ENHACEMENTS) - snippets para editar INI de Freelancer con menos friccion en VS Code.
-- [testoasis](https://github.com/josbyte/testoasis) - proyecto web de mayor tamano dentro de mi cuenta publica.
+- [testoasis](https://github.com/josbyte/testoasis) - Copia de seguridad de WebOasis, una landing home que ya no existe.
 
 ## Que me interesa construir
 
